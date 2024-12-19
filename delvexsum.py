@@ -3,7 +3,7 @@ b = int(input("Enter 2 your input: "))
 c = int(input("Enter 3 your input: "))
 d = int(input("Enter 4 your input: "))
 e = int(input("Enter 5 your input: "))
-# above is input method
+
 
 f = [a, b,c,d,e]
 h = 0
