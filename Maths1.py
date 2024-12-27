@@ -8,9 +8,9 @@
 
 
 b = []
-for a in range(0, 6, 1):
+for i in range(6):
         a=int(input())
-        if a%2==0:
+        if i%2==0:
                 print(a)
         else:
                 b.append(a)
