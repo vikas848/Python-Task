@@ -1,6 +1,6 @@
 b = []
 for i in range(6):
-        a=input()
+        a=str(input())
         if i % 2 ==0:
                 print(len(a))
         else:
